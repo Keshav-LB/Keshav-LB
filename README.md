@@ -1,7 +1,7 @@
 ![logo](https://github.com/Keshav-LB/Keshav-LB/blob/main/Banner.png)
 <h1 align="center">Hi 👋, This is Keshav Mishra!</h1>
 <h3 align="center">
- I am a passionate and results-driven Software Developer currently working remotely for **Sterling National Financial Group, LLC**.
+ I am a passionate and results-driven Software Engineer currently working remotely for **Sterling National Financial Group, LLC**.
   My role involves contributing to innovative financial solutions, enhancing software efficiency, and ensuring high-quality deliverables.
   My professional journey has evolved from being a Computer Science Engineering graduate to contributing my expertise in the industry. 
   My passion for technology began with a keen interest in Cyber Security and DevOps, which led me to explore diverse technological domains. 
@@ -10,17 +10,17 @@
 </h3>
 
 ## Current Focus
-- 📘 Currently working on PHP and Laravel projects.
+- 📘 Currently learning and working on Laravel.
 - 💻 Experienced in Full Stack Java Development, including Core Java, Spring Boot, Hibernate, and Microservices.
 - 🌟 Passionate about building scalable, efficient, and user-friendly applications.
 
-## Professional Details
+## Past Professional Details
 - 🌐 **Position**: Developer at Sterling National Financial Group, LLC (Remote, India)
 - ⏰ **Working Hours**: 8:00 AM – 5:00 PM CST
 - 📩 **Email**: keshavmishra1001@gmail.com
 - 🌟 **LinkedIn**: [Connect with me](https://linkedin.com/in/keshavmishra10)
 - 💻 **GitHub**: [View Projects](https://github.com/Keshav-LB)
 
-## Fun Fact
+## 
 - ⚡I enjoy tackling complex coding challenges and believe in continuous improvement to achieve mastery in software development.
 
